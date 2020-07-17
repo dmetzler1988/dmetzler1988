@@ -14,3 +14,63 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```php
+<?php
+
+namespace DanielMetzler;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Cyberlink AG',
+                'position' => 'Software Engineer',
+                'since' => 'April 2020'
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Docker::class,
+            Kubernetes::class,
+            Microservice::class,
+            Laminas::class,
+            Mezzio::class,
+            RestApi::class,
+            Doctrine::class,
+            MySql::class,
+            RabbitMq:class,
+            GitHub::class,
+            GitHubActions::class,
+            GitLab::class,
+            GitLabCiCd::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+    
+    public function getMainKnowledge(): array
+    {
+        return [
+            'FrontendKnowledge' => $this->getFrontEndKnowledge(),
+            'BackendKnowledge' => $this->getBackEndKnowledge(),
+            'AdministrationKnowledge' => $this->getAdministrationKnowledge(),
+            'OtherKnowledge' => $this->getOtherKnowledge(),
+        ];
+    }
+    
+    private function getFrontEndKnowledge(){}
+    private function getBackEndKnowledge(){}
+    private function getAdministrationKnowledge(){}
+    private function getOtherKnowledge(){}
+}
+```
