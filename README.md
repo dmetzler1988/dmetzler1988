@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Examples:
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://github.com/kautukkundan/Awesome-Profile-README-templates
 -->
 
 ```php
