@@ -1,5 +1,7 @@
 # Hi there 👋
 
+## 📫 How to reach me
+
 [![Website](https://img.shields.io/badge/Website-daniel.metzler.pro-informational?style=flat-square&logo=jekyll&logoColor=white)](https://daniel.metzler.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dmetzler1988-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmetzler1988/)
 [![Xing](https://img.shields.io/badge/Xing-Daniel_Metzler7-informational?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Daniel_Metzler7/cv)
@@ -30,7 +32,9 @@
 <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white"></a>
 -->
 
-## 🔭 Official stats (much much more on private Repositories and GitLab)
+## 🔭 Official stats
+
+***Hint:*** *much much more on private Repositories and GitLab*
 
 ![dmetzler1988's github stats](https://github-readme-stats.vercel.app/api?username=dmetzler1988&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
@@ -53,64 +57,3 @@ Examples:
 - https://github.com/kautukkundan/Awesome-Profile-README-templates
 -->
 
-<!--
-```php
-<?php
-
-namespace DanielMetzler;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Cyberlink AG',
-                'position' => 'Software Engineer',
-                'since' => 'April 2020'
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Docker::class,
-            Kubernetes::class,
-            Microservice::class,
-            Laminas::class,
-            Mezzio::class,
-            RestApi::class,
-            Doctrine::class,
-            MySql::class,
-            RabbitMq:class,
-            GitHub::class,
-            GitHubActions::class,
-            GitLab::class,
-            GitLabCiCd::class,
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
-    
-    public function getMainKnowledge(): array
-    {
-        return [
-            'FrontendKnowledge' => $this->getFrontEndKnowledge(),
-            'BackendKnowledge' => $this->getBackEndKnowledge(),
-            'AdministrationKnowledge' => $this->getAdministrationKnowledge(),
-            'OtherKnowledge' => $this->getOtherKnowledge(),
-        ];
-    }
-    
-    private function getFrontEndKnowledge(){}
-    private function getBackEndKnowledge(){}
-    private function getAdministrationKnowledge(){}
-    private function getOtherKnowledge(){}
-}
-```
--->
