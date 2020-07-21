@@ -6,10 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dmetzler1988-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmetzler1988/)
 [![Xing](https://img.shields.io/badge/Xing-Daniel_Metzler7-informational?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Daniel_Metzler7/cv)
 
-<!--
-<a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white"></a>
--->
-
 ## 🔭 Official stats
 
 ***Hint:*** *much much more on private Repositories and GitLab*
@@ -46,6 +42,13 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-262577?style=flat-square&logo=Nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-262577?style=flat-square&logo=Apache&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-262577?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom%20CC-3DF0F0?style=flat-square&logo=Adobe-Lightroom-CC&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-EE3D8F?style=flat-square&logo=Adobe-InDesign&logoColor=white)
+![Affinity Publisher](https://img.shields.io/badge/-Affinity%20Publisher-C9284D?style=flat-square&logo=Affinity-Publisher&logoColor=white)
+![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white)
+
+and much much more.
 
 <!--
 **dmetzler1988/dmetzler1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
