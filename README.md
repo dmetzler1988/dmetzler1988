@@ -19,6 +19,7 @@ Examples:
 - https://github.com/kautukkundan/Awesome-Profile-README-templates
 -->
 
+<!--
 ```php
 <?php
 
@@ -78,3 +79,4 @@ class About extends Me
     private function getOtherKnowledge(){}
 }
 ```
+-->
