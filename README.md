@@ -68,5 +68,9 @@ Here are some ideas to get you started:
 Examples:
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - https://github.com/kautukkundan/Awesome-Profile-README-templates
+
+Sources for Badges:
+- https://simpleicons.org/
+- https://shields.io/
 -->
 
