@@ -12,8 +12,8 @@
 ## 🌐 Socials
 
 [![Website](https://img.shields.io/badge/Website-1769ff?style=for-the-badge&logo=osf&logoColor=white)](https://daniel.metzler.pro) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com) 
-[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://linkedin.com/in/linkedin.com](https://www.xing.com/profile/Daniel_Metzler7/cv)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmetzler1988/) 
+[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Daniel_Metzler7/) 
 
 ## 📊 GitHub Stats for dmetzler1988
 
